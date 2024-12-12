@@ -1,6 +1,6 @@
 # Secure File Manager
 
-**Secure File Manager** é uma ferramenta em Python desenvolvida para proteger arquivos e diretórios por meio de criptografia AES. A aplicação permite criptografar e descriptografar arquivos e diretórios com uma interface amigável, além de registrar logs de operações realizadas.
+**Secure File Manager** é uma ferramenta em Python, desenvolvida e baseada no repositório https://github.com/cassiano-dio/desafio-modulo2-cibersecurity.git, para proteger arquivos e diretórios por meio de criptografia AES. A aplicação permite criptografar e descriptografar arquivos e diretórios com uma interface amigável, além de registrar logs de operações realizadas.
 
 ---
 
